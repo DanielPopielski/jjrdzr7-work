@@ -1,2 +1,2 @@
 Kurs Java
-Daniel Popielski
+7 sierpien 2022
