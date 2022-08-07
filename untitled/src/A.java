@@ -1,3 +1,5 @@
 public class A {
-    //xd
+    public void createPrintln() {
+        System.out.println("xdddd");    
+    }
 }
