@@ -1,2 +1,2 @@
-Kurs Java
+JJRDZ7 - JAVA
 Daniel Popielski
